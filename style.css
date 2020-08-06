@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(235, 235, 235);
+}
+#box{
+    height: 380px;
+    width: 360px;
+    background-color:rgb(255, 255, 255);
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 1.4%;
+    font-weight: 500;
+    font-size: 14px;
+    
+}
+#heading{
+    text-align: center;
+   padding-top: 75px;
+   font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-size:23px ;
+  
+   display: block;
+   font-weight: 800;
+   margin-top:12px ;
+   line-height: 32px;
+
+}
+button
+{
+    background-color: yellow;
+   
+    borderstyle:solid;
+    border-width:1px;
+    font-size:14px ;
+   height: 40px;
+   width: 80px;
+}
+#font
+{
+    color: gray;
+    font-weight: bold;
+    padding-left:20px;
+    font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+font-size: 11px;
+
+}
+#button{
+   font:center;
+   padding:40px;
+   text-align: center;
+font-size: 15px;
+
+}
+input{
+    background-color: rgb(247, 247, 247);
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    width: 300px;
+ margin-top: 10px ;
+ margin-bottom: 10px ;
+    height: 40px;
+}
+#end{
+ font-size: 16.5px;
+ font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+    text-align: center;
+    padding-top: 10px;
+}
+#forgot{
+    float:right;
+    margin-right: 40px;
+    font-weight:150;
+    font-size: 12px;
+   
+}
+
+
