@@ -28,12 +28,12 @@ body{
 button
 {
     background-color: yellow;
-   
-    borderstyle:solid;
+    border-radius: 29px;
     border-width:1px;
     font-size:14px ;
    height: 40px;
-   width: 80px;
+   width: 90px;
+   border-color: transparent;
 }
 #font
 {
