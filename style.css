@@ -11,19 +11,16 @@ body{
     border-radius: 1.4%;
     font-weight: 500;
     font-size: 14px;
-    
 }
 #heading{
     text-align: center;
    padding-top: 75px;
    font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
    font-size:23px ;
-  
    display: block;
    font-weight: 800;
    margin-top:12px ;
    line-height: 32px;
-
 }
 button
 {
@@ -42,14 +39,12 @@ button
     padding-left:20px;
     font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif ;
 font-size: 11px;
-
 }
 #button{
    font:center;
    padding:40px;
    text-align: center;
 font-size: 15px;
-
 }
 input{
     background-color: rgb(247, 247, 247);
@@ -73,7 +68,8 @@ input{
     margin-right: 40px;
     font-weight:150;
     font-size: 12px;
-   
 }
-
+button:hover{
+    cursor: pointer;
+}
 
